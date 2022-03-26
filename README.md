@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=5587A2&height=300&section=header&text=Sujin%20render&fontSize=90)
 
 <!--
 **SujinKim-sj/SujinKim-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
