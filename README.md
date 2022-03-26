@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=5587A2&height=300&section=header&text=Sujin%20Kim&fontSize=90)
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=5587A2&height=300&section=header&text=Sujin%20Kim&fontSize=90)
+
   <br/><br/>
   
   ## 💻 Tech Stack 💻
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
   <br/><br/>
   ## 🌊 Contacts 🌊
   <img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  <a href="mailto:sjsjkim0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   
   <br/><br/>
   
@@ -38,4 +39,7 @@ Here are some ideas to get you started:
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujinKim-sj&show_icons=true&theme=radical)](https://github.com/SujinKim-sj/github-readme-stats) 
 
+  ![footer](https://capsule-render.vercel.app/api?section=footer&color=5587A2)
+  
 <div>
+  
