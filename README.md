@@ -16,17 +16,26 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=5587A2&height=300&section=header&text=Sujin%20Kim&fontSize=90)
 <div align="center">
   <br/><br/>
-  ##🛠 Tech Stack 🛠
-  ---------------------------------------
-  <br/><br/>
+  
+  ## 💻 Tech Stack 💻
+  수정 중
+  <br/>
+  
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  ---------------------------------------
-  <br/><br/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujinKim-sj&show_icons=true&theme=radical)](https://github.com/SujinKim-sj/github-readme-stats)
-
-  <br/><br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujinKim-sj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
   
+  <br/><br/>
+  ## 🌊 Contacts 🌊
+  <img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  
+  <br/><br/>
+  
+  ## 💡 GitHub Stats 💡
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujinKim-sj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujinKim-sj&show_icons=true&theme=radical)](https://github.com/SujinKim-sj/github-readme-stats) 
+
 <div>
