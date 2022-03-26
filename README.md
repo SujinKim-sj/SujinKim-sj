@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=5587A2&height=300&section=header&text=Sujin%20Kim&fontSize=90)
 <div align="center">
 <br>
-![header](https://capsule-render.vercel.app/api?type=wave&color=5587A2&height=300&section=header&text=Sujin%20Kim&fontSize=90)
-<br>
 🛠 Tech Stack 🛠
+<br>
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  
