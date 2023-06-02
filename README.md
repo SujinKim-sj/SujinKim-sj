@@ -32,7 +32,10 @@ Here are some ideas to get you started:
   <a href="mailto:sjsjkim0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   
   <br/><br/>
+  ## 🏅 BOJ Rank 🏅
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjkim0)](https://solved.ac/sjkim0/)
   
+  <br/><br/>
   ## 💡 GitHub Stats 💡
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujinKim-sj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
