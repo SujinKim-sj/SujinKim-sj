@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
   <br/><br/>
   ## 🌊 Contacts 🌊
-  <img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <a href="https://sooz.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   <a href="mailto:sjsjkim0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   
   <br/><br/>
