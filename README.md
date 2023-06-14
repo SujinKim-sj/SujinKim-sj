@@ -39,8 +39,6 @@ Here are some ideas to get you started:
   ## 💡 GitHub Stats 💡
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujinKim-sj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujinKim-sj&show_icons=true&theme=radical)](https://github.com/SujinKim-sj/github-readme-stats) 
 
   ![footer](https://capsule-render.vercel.app/api?section=footer&color=5587A2)
   
